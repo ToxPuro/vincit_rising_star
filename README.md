@@ -1,1 +1,1 @@
-# vincit_rising_star
+# Vincit Rising Star
