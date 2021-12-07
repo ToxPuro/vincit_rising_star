@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vincit_rising_star"
+version = "0.1.0"
+description = ""
+authors = ["toxpuro <puro.touko2@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.26.0"
+Flask = "^2.0.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
